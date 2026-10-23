@@ -1,0 +1,19 @@
+{
+  "name": "TakipçiLab — TikTok Büyüme Asistanı",
+  "short_name": "TakipçiLab",
+  "description": "TikTok içerik üreticileri için büyüme planı ve görev uygulaması.",
+  "lang": "tr-TR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#100b20",
+  "theme_color": "#100b20",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
